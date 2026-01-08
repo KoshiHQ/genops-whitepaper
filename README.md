@@ -1,8 +1,8 @@
-# GenOps Runtime Control Planes
+# GenOps AI: Runtime Control for Production AI Systems
 
 📄 **[View the Whitepaper (v0.1)](paper/GenOps_Runtime_Control_Planes_v0.1.pdf)**
 
-This whitepaper provides the theoretical foundation for GenOps AI practices. For a practical implementation, see the **GenOps-AI OpenTelemetry Extension**:
+This whitepaper provides the operational foundation for GenOps AI practices. For a practical implementation, see the **GenOps-AI OpenTelemetry Extension**:
 
 🔗 **[GenOps-AI Repository](https://github.com/KoshiHQ/GenOps-AI)**
 
@@ -10,7 +10,7 @@ This whitepaper provides the theoretical foundation for GenOps AI practices. For
 
 **GenOps AI (Generative Operations)** represents a new operational paradigm for managing AI systems at scale. This whitepaper focuses specifically on runtime control planes that provide real-time governance, monitoring, and management capabilities for AI workloads, with deep integration into OpenTelemetry for comprehensive observability.
 
-As AI systems become increasingly critical to business operations, the need for robust operational frameworks becomes paramount. GenOps addresses the unique challenges of operating AI workloads, including model governance, performance monitoring, resource optimization, and compliance management.
+As AI systems become increasingly critical to business operations, the need for robust operational frameworks becomes paramount. GenOps AI addresses the unique challenges of operating AI workloads, including model governance, performance monitoring, resource optimization, and compliance management.
 
 ## Related Implementation
 
