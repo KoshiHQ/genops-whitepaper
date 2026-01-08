@@ -45,7 +45,6 @@ This whitepaper covers:
 genops-whitepaper/
 ├── README.md           # This introduction
 ├── LICENSE            # Apache 2.0 license
-├── CLAUDE.md          # Development guidance
 └── paper/             # Whitepaper files
     └── GenOps_Runtime_Control_Planes_v0.1.pdf
 ```
